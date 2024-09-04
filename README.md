@@ -1,2 +1,2 @@
 # oracle_database_foundations
-includes homework files to the oracle database "practice" questions 
+includes homework files to the oracle database "practice" questions of different sections
